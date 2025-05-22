@@ -39,7 +39,9 @@ Record your voice for 3 seconds and see the model classify your accent with perc
 ## Project Structure
    
 ├── app.py                 # Main application file
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project description
 
 
